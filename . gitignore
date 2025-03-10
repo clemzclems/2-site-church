@@ -33,8 +33,7 @@ vendor/
 *.iml  
 
 # Ignore media files (optional: only if they shouldn't be tracked)  
-image/gallery*/  
-video/  
+
 
 # Ignore sensitive config files  
 _config.yml  
