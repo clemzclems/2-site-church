@@ -3,7 +3,7 @@
 Thumbs.db  
 
 # Ignore Jekyll-generated site files  
-_site/  
+_site/
 .sass-cache/  
 .jekyll-cache/  
 jekyll-metadata  
@@ -31,8 +31,6 @@ vendor/
 .vscode/  
 .idea/  
 *.iml  
-
-# Ignore media files (optional: only if they shouldn't be tracked)  
 
 
 # Ignore sensitive config files  
